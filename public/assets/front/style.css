@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+.leftborder{
+background-image:url('/assets/front/images/leftborder.png');
+background-repeat:repeat-y;
+}
+.rightborder{
+background-image:url('/assets/front/images/rightborder.png');
+background-repeat:repeat-y;
+}
+#table{
+margin:0px;
+}
+
+.memberBar{
+font-size:80%;
+text-align:right;
+float:right;
+width:150px;
+background-color:white;
+padding: 3px 3px 3px 3px;
+margin: 8px 3px 3px 3px;
+border: 1px dotted black;
+line-height:2;
+}
+.tablesmall{
+font-size:80%;
+}
+.tablelesssmall{
+font-size:16px;
+}
